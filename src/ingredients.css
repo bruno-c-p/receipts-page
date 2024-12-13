@@ -1,0 +1,11 @@
+#ingredients {
+    h2 {
+        font: var(--text-subtitle);
+        color: var(--text-color-primary);
+    }
+
+    ul {
+        margin-top: 4px;
+        list-style-position: inside;
+    }
+}

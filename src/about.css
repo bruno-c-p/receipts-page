@@ -1,0 +1,13 @@
+#about {
+    p {
+        margin-top: 4px;
+    }
+
+    ul {
+        margin-top: 12px;
+        list-style-type: none;
+        display: flex;
+        flex-direction: column;
+        gap: 4px;
+    }
+}
