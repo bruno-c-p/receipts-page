@@ -1,10 +1,10 @@
 
 <h1 align="center">
-  Receipts page
+  Recipe page
   <br>
 </h1>
 
-<h4 align="center">A simple receipts webpage built with HTML & CSS.</h4>
+<h4 align="center">A simple recipe webpage built with HTML & CSS.</h4>
 
 <p align="center">
   <a href="#credits">Credits</a>
