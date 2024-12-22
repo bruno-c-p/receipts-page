@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  Tourist Spot Landing Page
+  Receipts page
   <br>
 </h1>
 
